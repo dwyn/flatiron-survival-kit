@@ -1,0 +1,38 @@
+{
+    "name": "flatiron-survival-kit",
+    "displayName": "Flatiron Survival Kit",
+    "description": "Just a few items to help get you through Flatiron♥️️",
+    "version": "0.0.1",
+    "publisher": "dwieb",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "ChakrounAnas.turbo-console-log", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "craigb85.custom-window-zoom", 
+        "CraigMaslowski.erb", 
+        "eamodio.gitlens", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-rename-tag", 
+        "hsnazar.hyper-term-theme", 
+        "kaiwood.endwise", 
+        "mgmcdermott.vscode-language-babel", 
+        "mikestead.dotenv", 
+        "PKief.material-icon-theme", 
+        "rebornix.ruby", 
+        "redhat.vscode-yaml", 
+        "ritwickdey.LiveServer", 
+        "Shan.code-settings-sync", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "skyran.js-jsx-snippets", 
+        "spywhere.guides", 
+        "vscodevim.vim", 
+        "wraith13.zoombar-vscode"
+    ]
+}
