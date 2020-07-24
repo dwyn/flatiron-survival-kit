@@ -4,6 +4,7 @@
     "description": "Just a few items to help get you through Flatiron♥️️",
     "version": "0.0.2",
     "publisher": "dwyn",
+    "icon": "images/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/dwyn/flatiron-survival-kit.git"
@@ -13,6 +14,13 @@
     },
     "categories": [
         "Extension Packs"
+    ],
+    "keywords": [
+        "Flatiron School",
+        "flatiron",
+        "school",
+        "survival kit",
+        "survival"
     ],
     "extensionPack": [ 
         "aaron-bond.better-comments", 
