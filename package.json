@@ -2,8 +2,12 @@
     "name": "flatiron-survival-kit",
     "displayName": "Flatiron Survival Kit",
     "description": "Just a few items to help get you through Flatiron♥️️",
-    "version": "0.0.1",
-    "publisher": "dwieb",
+    "version": "0.0.2",
+    "publisher": "dwyn",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dwyn/flatiron-survival-kit.git"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
